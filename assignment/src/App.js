@@ -20,7 +20,8 @@ function App() {
   <p style={{color:"black",textAlign:'left'}}>Connect Autoresponder</p>
   <p style={{color:"black",textAlign:'left'}}>with the Autoresponder mentioned below, you can integrate.you can set behavioural guidelances in you products to add<br></br> customers to mailing list,tag them when they cancel their subscription, and a lot more.</p>
   <div style={{ display: "grid", gridTemplateColumns: "repeat(4, 1fr)", gridGap: 20 }}>
-    <div><div><div class="card" style={{width:'180px',background:'white', borderRadius:' 10px 10px 10px 10px'}} >
+
+    <div><div class="card" style={{width:'200px',height:'200px',background:'#f2f3f4', borderRadius:' 10px 10px 10px 10px'}} >
   <img class="card-img-top" src={b} alt="Card image cap" height="50px"/>
   <div class="card-body">
     <h5 class="card-title">GetResponse</h5>
@@ -28,7 +29,7 @@ function App() {
     <button style={{background:'#FF4200', borderRadius:' 8px 5px 5px 5px',height:"30px",fontcolor:'white'}}><p style={{color:'white'}}>Integrate now</p></button>
   </div>
 </div></div>
-<br></br><div><div class="card" style={{width:'180px',background:'white', borderRadius:' 10px 10px 10px 10px'}} >
+    <div><div class="card" style={{width:'200px',height:'200px',background:'white', borderRadius:' 10px 10px 10px 10px'}} >
   <img class="card-img-top" src={b} alt="Card image cap" height="50px"/>
   <div class="card-body">
     <h5 class="card-title">GetResponse</h5>
@@ -36,13 +37,106 @@ function App() {
     <button style={{background:'#FF4200', borderRadius:' 8px 5px 5px 5px',height:"30px",fontcolor:'white'}}><p style={{color:'white'}}>Integrate now</p></button>
   </div>
 </div></div>
-
-  </div></div>
+    <div><div class="card" style={{width:'200px',height:'200px',background:'#f2f3f4', borderRadius:' 10px 10px 10px 10px'}} >
+  <img class="card-img-top" src={b} alt="Card image cap" height="50px"/>
+  <div class="card-body">
+    <h5 class="card-title">GetResponse</h5>
+    <p class="card-text">0 Account connected</p>
+    <button style={{background:'#FF4200', borderRadius:' 8px 5px 5px 5px',height:"30px",fontcolor:'white'}}><p style={{color:'white'}}>Integrate now</p></button>
   </div>
+</div></div>
+    <div><div class="card" style={{width:'200px',height:'200px',background:'#f2f3f4', borderRadius:' 10px 10px 10px 10px'}} >
+  <img class="card-img-top" src={b} alt="Card image cap" height="50px"/>
+  <div class="card-body">
+    <h5 class="card-title">GetResponse</h5>
+    <p class="card-text">0 Account connected</p>
+    <button style={{background:'#FF4200', borderRadius:' 8px 5px 5px 5px',height:"30px",fontcolor:'white'}}><p style={{color:'white'}}>Integrate now</p></button>
   </div>
+</div></div>
   </div>
+  <br></br><div style={{ display: "grid", gridTemplateColumns: "repeat(4, 1fr)", gridGap: 20 }}>
+
+<div><div class="card" style={{width:'200px',height:'200px',background:'white', borderRadius:' 10px 10px 10px 10px'}} >
+<img class="card-img-top" src={b} alt="Card image cap" height="50px"/>
+<div class="card-body">
+<h5 class="card-title">GetResponse</h5>
+<p class="card-text">0 Account connected</p>
+<button style={{background:'#FF4200', borderRadius:' 8px 5px 5px 5px',height:"30px",fontcolor:'white'}}><p style={{color:'white'}}>Integrate now</p></button>
+</div>
+</div></div>
+<div><div class="card" style={{width:'200px',height:'200px',background:'white', borderRadius:' 10px 10px 10px 10px'}} >
+<img class="card-img-top" src={b} alt="Card image cap" height="50px"/>
+<div class="card-body">
+<h5 class="card-title">GetResponse</h5>
+<p class="card-text">0 Account connected</p>
+<button style={{background:'#FF4200', borderRadius:' 8px 5px 5px 5px',height:"30px",fontcolor:'white'}}><p style={{color:'white'}}>Integrate now</p></button>
+</div>
+</div></div>
+<div><div class="card" style={{width:'200px',height:'200px',background:'white', borderRadius:' 10px 10px 10px 10px'}} >
+<img class="card-img-top" src={b} alt="Card image cap" height="50px"/>
+<div class="card-body">
+<h5 class="card-title">GetResponse</h5>
+<p class="card-text">0 Account connected</p>
+<button style={{background:'#FF4200', borderRadius:' 8px 5px 5px 5px',height:"30px",fontcolor:'white'}}><p style={{color:'white'}}>Integrate now</p></button>
+</div>
+</div></div>
+<div><div class="card" style={{width:'200px',height:'200px',background:'white', borderRadius:' 10px 10px 10px 10px'}} >
+<img class="card-img-top" src={b} alt="Card image cap" height="50px"/>
+<div class="card-body">
+<h5 class="card-title">GetResponse</h5>
+<p class="card-text">0 Account connected</p>
+<button style={{background:'#FF4200', borderRadius:' 8px 5px 5px 5px',height:"30px",fontcolor:'white'}}><p style={{color:'white'}}>Integrate now</p></button>
+</div>
+</div></div>
+</div>
+
+<br></br>
+<div style={{ display: "grid", gridTemplateColumns: "repeat(4, 1fr)", gridGap: 20 }}>
+
+<div><div class="card" style={{width:'200px',height:'200px',background:'#f2f3f4', borderRadius:' 10px 10px 10px 10px'}} >
+<img class="card-img-top" src={b} alt="Card image cap" height="50px"/>
+<div class="card-body">
+<h5 class="card-title">GetResponse</h5>
+<p class="card-text">0 Account connected</p>
+<button style={{background:'#FF4200', borderRadius:' 8px 5px 5px 5px',height:"30px",fontcolor:'white'}}><p style={{color:'white'}}>Integrate now</p></button>
+</div>
+</div></div>
+<div><div class="card" style={{width:'200px',height:'200px',background:'#f2f3f4', borderRadius:' 10px 10px 10px 10px'}} >
+<img class="card-img-top" src={b} alt="Card image cap" height="50px"/>
+<div class="card-body">
+<h5 class="card-title">GetResponse</h5>
+<p class="card-text">0 Account connected</p>
+<button style={{background:'#FF4200', borderRadius:' 8px 5px 5px 5px',height:"30px",fontcolor:'white'}}><p style={{color:'white'}}>Integrate now</p></button>
+</div>
+</div></div>
+<div><div class="card" style={{width:'200px',height:'200px',background:'#f2f3f4', borderRadius:' 10px 10px 10px 10px'}} >
+<img class="card-img-top" src={b} alt="Card image cap" height="50px"/>
+<div class="card-body">
+<h5 class="card-title">GetResponse</h5>
+<p class="card-text">0 Account connected</p>
+<button style={{background:'#FF4200', borderRadius:' 8px 5px 5px 5px',height:"30px",fontcolor:'white'}}><p style={{color:'white'}}>Integrate now</p></button>
+</div>
+</div></div>
+<div><div class="card" style={{width:'200px',height:'200px',background:'#f2f3f4', borderRadius:' 10px 10px 10px 10px'}} >
+<img class="card-img-top" src={b} alt="Card image cap" height="50px"/>
+<div class="card-body">
+<h5 class="card-title">GetResponse</h5>
+<p class="card-text">0 Account connected</p>
+<button style={{background:'#FF4200', borderRadius:' 8px 5px 5px 5px',height:"30px",fontcolor:'white'}}><p style={{color:'white'}}>Integrate now</p></button>
+</div>
+</div></div>
+</div>
 
 
+
+
+
+</div>
+
+  
+
+</div>
+    </div>
   );
 }
 
